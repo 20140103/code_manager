@@ -1,0 +1,3 @@
+api.baseUrl: http://127.0.0.1:4523/m1/2401587-0-default
+
+logger.level: debug
